@@ -7,13 +7,14 @@ Experienced data analytics & digitalization professional with over 7.5 years of 
 ## 🔭 Languages & Tools ...
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="50" height="50" style="padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50" style="padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teradata/teradata-original-wordmark.svg" alt="Teradata" width="50" height="50" style="padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50" style="padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="PowerBI" width="50" height="50" style="padding: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="50" height="50" style="padding: 10px;">
 </p>
+
 
 
 
