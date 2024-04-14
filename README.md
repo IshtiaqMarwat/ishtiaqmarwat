@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Muhammad Ishtiaq Khan - Data Analytics, Digitalization & Continuous Auditing Expert
+# I am Muhammad Ishtiaq Khan - Data Analytics, Digitalization & Continuous Auditing Expert
 
 Experienced data analytics & digitalization professional with over 7.5 years of expertise in leveraging BI tools & technologies such as PowerBI, Tableau, MS SQL Server Management Studio, Python, SQL, and Microsoft Excel to transform data into valuable insights for business decision making and growth. Proficient in data visualization, ETL/EDA techniques, automation, databases, dashboard development & reporting. Skilled in digitalization, continuous auditing, and project management, contributing to enhanced business efficiency, customer satisfaction, and revenue growth.
 
