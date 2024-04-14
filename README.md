@@ -25,9 +25,6 @@ Enhancing my skills in data science methodologies and advanced analytics techniq
 ## 📫 How to reach me:
 Feel free to reach out via email or LinkedIn for collaboration opportunities or any inquiries.
 
-## 😄 Pronouns:
-He/Him
-
 ## ⚡ Fun fact:
 I am an avid learner of languages and enjoy exploring different cultures through language learning.
 
