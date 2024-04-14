@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-# Muhammad Ishtiaq Khan - Data Analytics, Digitalization & Continuous Auditing
+# Muhammad Ishtiaq Khan - Data Analytics, Digitalization & Continuous Auditing Expert
 
 Experienced data analytics & digitalization professional with over 7.5 years of expertise in leveraging BI tools & technologies such as PowerBI, Tableau, MS SQL Server Management Studio, Python, SQL, and Microsoft Excel to transform data into valuable insights for business decision making and growth. Proficient in data visualization, ETL/EDA techniques, automation, databases, dashboard development & reporting. Skilled in digitalization, continuous auditing, and project management, contributing to enhanced business efficiency, customer satisfaction, and revenue growth.
+
+## 🔭 Languages & Tools ...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teradata/teradata-original.svg" alt="Teradata" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="PowerBI" width="50" height="50" style="padding: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="50" height="50" style="padding: 10px;">
+</p>
+
 
 ## 🔭 I’m currently working on ...
 Manager Data Analytics, Digitalization & Continuous Auditing at PTCL Group (e& UAE), focusing on projects involving data analytics, digitalization, and continuous auditing within the Telecommunication & Internal Audit industry.
