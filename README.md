@@ -6,7 +6,9 @@ Experienced data analytics & digitalization professional with over 7.5 years of 
 
 ## 🔭 Languages & Tools ...
 <p align="center">
-  <strong>Python</strong>, <strong>SQL</strong>, <strong>SQL SERVER</strong>, <strong>Teradata</strong>, <strong>Tableau</strong>, <strong>PowerBI</strong>, <strong>Excel</strong>
+  <strong>Data Analytics</strong> - <strong>Data Visualization</strong> - <strong>PowerBI/Tableau</strong> - <strong>Data Pipelines</strong> - <strong>Automation</strong> - <strong>SQL Server/MySQL</strong> - <strong>SQL/Python</strong><br>
+  <strong>Databases/TeraData</strong> - <strong>Teamwork/Collaboration</strong> - <strong>Customer Analytics</strong> - <strong>ETL/EDA Techniques</strong> - <strong>Marketing Analytics</strong> - <strong>Continuous Auditing</strong><br>
+  <strong>Digitalization</strong> - <strong>Project Management</strong> - <strong>Coaching/Consulting</strong> - <strong>CRM</strong> - <strong>Stakeholder Management</strong> - <strong>Microsoft Excel</strong> - <strong>Looker Data Studio</strong>
 </p>
 
 ## 🔭 I’m currently working on ...
