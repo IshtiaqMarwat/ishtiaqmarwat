@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Muhammad Ishtiaq Khan  
-## Data Science | AI in Audit | Digital Transformation Leader | Internal Audit & Risk Analytics Specialist
+## Integrating Data Science, Machine Learning & AI in Audit & Assurance  | Exertise in Audit Digital Transformation, Audit Amaytics, Fraud Analytics & Risk Analytics
 
 🔍 Driving Innovation at the Intersection of **Data Science**, **Continuous Auditing**, **AI**, and **Digitalization**  
-📍 Currently at **PTCL & Ufone (e& UAE)** | Expert in **Agentic AI**, **GenAI**, **ML**, **Python**, **Power BI**, and **Audit Analytics**
+📍 Worked at **PTCL & Ufone (e& UAE)**, **OGDCL** | Expert in **Agentic AI**, **GenAI**, **ML**, **Python**, **Power BI**, and **Audit Analytics**
 
 ---
 
 ### 💡 About Me
 
-I'm a data-driven professional with over **7.5 years** of experience transforming raw data into actionable insights that fuel **business growth**, **risk mitigation**, and **process efficiency**. My journey spans **Telecom**, **Oil & Gas**, and **FMCG**, where I've led AI-driven **Digital Transformation** projects in **Internal Audit**, **Assurance**, and **Business Operations**.
+I'm a data-driven professional with over **8 years** of experience transforming raw data into actionable insights that fuel **business growth**, **risk mitigation**, and **process efficiency**. My journey spans **Telecom**, **Oil & Gas**, and **FMCG**, where I've led AI-driven **Digital Transformation** projects in **Internal Audit**, **Assurance**, and **Business Operations**.
 
 🔹 I specialize in:
 - **AI-Enabled Internal Audit**
