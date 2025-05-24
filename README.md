@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Ishtiaq Khan  
-## Integrating Data Science, Machine Learning & AI in Audit & Assurance  | Exertise in Audit Digital Transformation, Audit Amaytics, Fraud Analytics & Risk Analytics
+## Integrating Data Science, Machine Learning & AI in Audit & Assurance  | Expertise in Audit Digital Transformation, Audit Analytics, Fraud Analytics & Risk Analytics
 
 🔍 Driving Innovation at the Intersection of **Data Science**, **Continuous Auditing**, **AI**, and **Digitalization**  
 📍 Worked at **PTCL & Ufone (e& UAE)**, **OGDCL** | Expert in **Agentic AI**, **GenAI**, **ML**, **Python**, **Power BI**, and **Audit Analytics**
