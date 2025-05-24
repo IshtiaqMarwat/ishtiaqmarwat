@@ -1,65 +1,84 @@
-### Hi there 👋
+# 👋 Hi, I'm Muhammad Ishtiaq Khan  
+## Data Science | AI in Audit | Digital Transformation Leader | Internal Audit & Risk Analytics Specialist
 
-# I am Muhammad Ishtiaq Khan - Data Analytics, Digitalization & Continuous Auditing Expert
+🔍 Driving Innovation at the Intersection of **Data Science**, **Continuous Auditing**, **AI**, and **Digitalization**  
+📍 Currently at **PTCL & Ufone (e& UAE)** | Expert in **Agentic AI**, **GenAI**, **ML**, **Python**, **Power BI**, and **Audit Analytics**
 
-Experienced data analytics & digitalization professional with over 7.5 years of expertise in leveraging BI tools & technologies such as PowerBI, Tableau, MS SQL Server Management Studio, Python, SQL, and Microsoft Excel to transform data into valuable insights for business decision making and growth. Proficient in data visualization, ETL/EDA techniques, automation, databases, dashboard development & reporting. Skilled in digitalization, continuous auditing, and project management, contributing to enhanced business efficiency, customer satisfaction, and revenue growth.
+---
 
-## 🔭 Languages & Tools ...
-<p align="center">
-  <strong>Data Analytics</strong> - <strong>Data Visualization</strong> - <strong>PowerBI/Tableau</strong> - <strong>Data Pipelines</strong> - <strong>Automation</strong> - <strong>SQL Server/MySQL</strong> - <strong>SQL/Python</strong><br>
-  <strong>Databases/TeraData</strong> - <strong>Teamwork/Collaboration</strong> - <strong>Customer Analytics</strong> - <strong>ETL/EDA Techniques</strong> - <strong>Marketing Analytics</strong> - <strong>Continuous Auditing</strong><br>
-  <strong>Digitalization</strong> - <strong>Project Management</strong> - <strong>Coaching/Consulting</strong> - <strong>CRM</strong> - <strong>Stakeholder Management</strong> - <strong>Microsoft Excel</strong> - <strong>Looker Data Studio</strong>
-</p>
+### 💡 About Me
 
-## 🔭 I’m currently working on ...
-Manager Data Analytics, Digitalization & Continuous Auditing at PTCL Group (e& UAE), focusing on projects involving data analytics, digitalization, and continuous auditing within the Telecommunication & Internal Audit industry.
+I'm a data-driven professional with over **7.5 years** of experience transforming raw data into actionable insights that fuel **business growth**, **risk mitigation**, and **process efficiency**. My journey spans **Telecom**, **Oil & Gas**, and **FMCG**, where I've led AI-driven **Digital Transformation** projects in **Internal Audit**, **Assurance**, and **Business Operations**.
 
-## 🌱 I’m currently learning & exploring ...
-🤩 Outside of my professional pursuits, I'm deeply engaged in refining my skills as a "business scientist." Combining my background in data analytics with a keen interest in marketing and business growth, I've embarked on a journey of continuous learning and exploration. You'll often find me diving into books, online courses, and networking events to expand my knowledge and expertise, bridging the gap between data-driven insights and strategic business decisions. It's not just about analyzing data—it's about unlocking the secrets to sustainable business success through the lens of science and innovation.
-🤩 German language proficiency for potential onsite work in Deutschland and remote collaboration.
+🔹 I specialize in:
+- **AI-Enabled Internal Audit**
+- **Fraud & Risk Analytics**
+- **Continuous Auditing & Monitoring**
+- **Data-Driven Decision Making**
+- **Automation & Visualization Dashboards**
 
-## 👯 I’m looking to collaborate on ...
-Data analytics projects, digitalization initiatives, and continuous auditing endeavors.
+> ⚠️ **Big Insight:** Data alone doesn't drive change—*impactful communication does*. I bridge this gap by turning complex analytics into narratives that influence decisions and spark action.
 
-## 🤔 I’m looking for help with ...
-Enhancing my skills in data science methodologies and advanced analytics techniques.
+---
 
-## 💬 Ask me about ...
-- Developing dynamic dashboards for business insights & decision making
-- Implementing data-driven strategies for revenue growth
-- Leveraging BI tools for optimizing operational efficiency
+### 🚀 What I Do
 
-## 📫 How to reach me:
-Feel free to reach out via email or LinkedIn for collaboration opportunities or any inquiries.
+🔧 **Current Focus**:  
+Leading initiatives to integrate **AI, ML, and Advanced Analytics** into the Internal Audit & Assurance function to build **future-ready, intelligent, and automated audit systems**.
 
-## ⚡ Fun fact:
-I am an avid learner of languages and enjoy exploring different cultures through language learning.
+📊 **Tools & Tech Stack**:
+- **Languages:** Python, SQL  
+- **ML & Data Science:** EDA, Feature Engineering, ETL/ELT, Supervised/Unsupervised ML (`scikit-learn`, `XGBoost`), Model Tuning, A/B Testing  
+- **BI & Visualization:** Power BI, Tableau, Looker Studio  
+- **Databases:** MS SQL, Teradata, MySQL, MongoDB, Firebase  
+- **Vector Databases & AI:** FAISS, HuggingFace Embeddings, LangChain, RAG Agents  
+- **AI Audit Chatbots:** Built using LangChain, ChatOpenAI, Gradio, PyPDF2, RetrievalQA, LLMChain  
+- **Platforms:** TeamMate+, Custom Dashboards  
+- **Others:** Excel, Canva, REST APIs, VS Code
 
-## Achievements:
 
-### Manager Data Analytics, Digitalization & Continuous Auditing, PTCL Group (e& UAE) | Telecommunications | Jul 2020 – Present | Location: Pakistan
+📈 **Key Achievements**:
+- ⬇️ **Reduced fraud by 30%** using AI-driven dashboards
+- 🔍 Developed **predictive churn models** in telecom sector
+- 🚚 Built inventory and fuel fraud dashboards that led to **25%+ operational gains**
+- 📉 Boosted audit efficiency by automating audit follow-up and leveraging Teammate+ innovations
+- 🧠 Conducted **40+ audits** to uncover revenue leakages and business risks using advanced analytics
 
-- **Designed and developed Sales Quality & Fraud dashboard & Automated processes with Power BI, SQL, Python, & MS Excel, analyzing over 8 million transactions monthly. Achieved a 30% reduction in sales-related fraud incidents within 6 months.**
-  
-- **Implemented a churn prediction model using Python, Power BI, Teradata, and SQL. Analyzed 20+ factors to forecast early churn, achieving an 80% prediction success rate & reducing churn by 15% within one year.**
-  
-- **Developed a dynamic Churn Management dashboard utilizing Power BI for data visualization, Python, and SQL for exploratory data analysis (EDA), and SQL Server Management Studio (SSMS) for database management. This enhanced customer retention, resulting in a 15% reduction in churn.**
-  
-- **Implemented an Inventory Management dashboard using SQL Server Management Studio and Power BI to track modem collection from churned customers and inventory reutilization. Achieved a 20% increase in modem collection and a 15% improvement in inventory reutilization within 6 months.**
-  
-- **Implemented vehicle tracking dashboard & Gen-Set fuel optimization dashboard along with automated process to highlight the revenue leakages & fraud incidents using Power BI, SQL, and Python. This resulted in a 25% reduction in fuel-related frauds and improvements in site uptime and resource allocation optimization.**
-  
-- **Developed CHI trend analysis dashboard with Power BI & Python, analyzing 22 million data records to examine the 12-month CHI trend and identify churn patterns. Provided insights for rehab of the access network to boost sales.**
-  
-- **Conducted 40+ assignments focusing on sales fraud, churn, and network analysis. Identified frauds, revenue leakages, and recommended corrective actions using data analysis, cleaning, and visualization techniques, ensuring compliance and accuracy.**
-  
-- **Successfully managed TeamMate+ audit management portal, overseeing 100+ audit assignments. Automated audit follow-up process & created Teamstore in TeamMate+ that resulted in enhancing the operational efficiency.**
-  
-- **Creating comprehensive reports and presentations using MS PowerPoint & Canva to communicate key results and achievements to senior management.**
+---
 
-**Data Analytics/Dashboards Portfolio:** [Behance Portfolio](https://www.behance.net/ishtiaqmarwat)  
-**German Proficiency:** [Introductory Series in German Language on YouTube](https://www.youtube.com/playlist?list=PLvpo6Yx8nlwFaLfA_SD-UJiyJ-uc9iAEk)
+### 🧠 Currently Learning & Exploring
 
-**Email:** engrishtiaq92@yahoo.com   
-**LinkedIn:** [linkedin.com/in/ishtiaqmarwat/](https://www.linkedin.com/in/ishtiaqmarwat/)  
+- 📚 **Agentic AI & Generative AI** in risk and assurance
+- 📖 German & Arabic language for international collaboration
+- 🕵️‍♂️ "Audit Science" — where data, AI, and assurance converge to create smarter, faster, and more proactive audit ecosystems.
 
+---
+
+### 🤝 Let’s Collaborate!
+
+Looking to work on:
+- Data Science/AI/ML integration in audit systems
+- Fraud detection & predictive risk analytics
+- Continuous monitoring & real-time dashboards
+
+Feel free to connect for:
+- Knowledge-sharing and co-creation
+- Advanced audit analytics collaborations
+- Cross-functional AI/BI initiatives
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [engrishtiaq92@yahoo.com](mailto:engrishtiaq92@yahoo.com)
+- 💼 LinkedIn: [linkedin.com/in/ishtiaqmarwat](https://www.linkedin.com/in/ishtiaqmarwat/)
+- 📊 Portfolio: [Behance – Data Analytics Projects](https://www.behance.net/ishtiaqmarwat)
+- 🇩🇪 German Learning: [Intro YouTube Series](https://www.youtube.com/playlist?list=PLvpo6Yx8nlwFaLfA_SD-UJiyJ-uc9iAEk)
+
+---
+
+### ⚡ Fun Fact
+
+I’m a multilingual enthusiast exploring cultures through language learning—and yes, I believe that curiosity is the greatest tool in a data scientist’s toolkit.
+
+---
